@@ -10,7 +10,6 @@
         "quotes": ["error", "double", { "avoidEscape": true, "allowTemplateLiterals": true }],
         "no-console": "error",
         "no-var": "error",
-        "unused-imports/no-unused-imports": "error",
         "eqeqeq": ["error", "always"],
         "array-bracket-spacing": ["error", "never"],
         "comma-spacing": ["error", { "before": false, "after": true }],
